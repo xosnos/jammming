@@ -72,7 +72,6 @@ class App extends React.Component {
           </div>
           <br />
           <br />
-          <p>Disclaimer: This is an educational project based on Jammming from Codecademy</p>
         </div>
       </div>
     );
